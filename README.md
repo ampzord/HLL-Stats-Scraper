@@ -8,6 +8,16 @@ The filtering settings can be customizable depending what is intended to search.
 
 ---
 
+## Tools used
+
+* Selenium
+
+* Pandas
+
+* Requests
+
+---
+
 ## Requirements
 
 Install requirements to run script
