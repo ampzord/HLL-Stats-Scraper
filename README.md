@@ -20,3 +20,5 @@ pip install -r requirements.txt
 ```sh
 py stats_scraper.py
 ```
+
+![](https://i.imgur.com/6fiXlzF.png)
