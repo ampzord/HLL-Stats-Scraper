@@ -38,5 +38,7 @@ Run execution example:
 
 The output is seen on the .xlsx file with a sheets page created for each server.
 
+Only showing entries which pass the selected filters: ```KILLS > 65```
+
 ![image](https://github.com/ampzord/HLL-Stats-Scraper/assets/6100063/e57c3bde-f56d-487f-82e4-e8cdf3f7078e)
 
